@@ -1,50 +1,66 @@
-# Welcome to your Expo app 👋
+Here's a draft for your `README.md` file for the **Cycle Care** app:  
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+---
 
-## Get started
+# 🌸 Cycle Care – Personalized Menstrual Care Subscription App
 
-1. Install dependencies
+**Cycle Care** is a revolutionary subscription and delivery service designed to make menstrual care convenient, sustainable, and stress-free. The app tailors product recommendations based on each user’s unique cycle patterns, ensuring timely delivery of the right products. With flexible subscription plans, emergency one-hour delivery, and eco-friendly products, Cycle Care empowers users to take control of their menstrual health with convenience, privacy, and sustainability in mind.
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## 🚀 Features
 
-   ```bash
-    npx expo start
-   ```
+- 🌿 **Personalized Product Recommendations** based on your cycle patterns  
+- 📦 **Flexible Subscription Plans** to suit individual needs  
+- ⏱ **Emergency One-Hour Delivery** for last-minute needs  
+- 🌍 **Eco-Friendly Products** that prioritize your health and the planet  
+- 🔒 **Privacy-First Approach** with discreet packaging and secure data handling  
+- 🎉 **Exclusive Discounts** for subscribers  
+- 💬 **Community Support** and educational content for menstrual health  
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 🛠 Technologies Used
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### **Frontend:**
+- React Native (for mobile app development)  
+- Expo (for faster development and testing)  
+- Tailwind CSS (for modern UI styling)  
 
-## Get a fresh project
+### **Backend:**
+- Node.js with Express.js (REST API)  
+- MongoDB with Mongoose (for database management)  
+- Firebase (authentication and user management)  
+- Supabase (for image and additional data storage)  
 
-When you're ready, run:
+### **AI Tools:**
+- AI-powered recommendation system (based on user cycle tracking data)  
+- Predictive analytics for product needs  
 
-```bash
-npm run reset-project
-```
+### **Other Tools & Libraries:**
+- Redux (state management)  
+- React Navigation (in-app navigation)  
+- Stripe API (for secure payments)  
+- Jest & React Testing Library (for testing)  
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 📱 App Structure
 
-To learn more about developing your project with Expo, look at the following resources:
+1. **Splash Screen:** Animated intro (3-4 seconds) showcasing Cycle Care’s logo  
+2. **Home Page:**  
+   - Header: Logo on the left, Login/Signup options on the right  
+   - Main Section: Essential product descriptions and buttons: _"Start Your Journey"_ & _"Learn More"_  
+   - Footer: Links to _About Us_, _Contact Us_, and _Terms & Conditions_  
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+3. **Login/Signup Pages:** Secure authentication using Firebase  
+4. **Subscription Management:** Set up personalized subscription plans  
+5. **Emergency Order Page:** Quick access for one-hour delivery orders  
+6. **Profile Page:** Manage cycle data, subscriptions, and order history  
 
-## Join the community
+---
 
-Join our community of developers creating universal apps.
+## 👩‍💻 Author  
+**Nishi Mewada** – [LinkedIn](https://www.linkedin.com/in/nishi-mewada)
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
