@@ -51,5 +51,35 @@ menstrual care.
 
 ---
 
+## 📱 Getting Started
+
+### Prerequisites
+- Node.js (v16 or higher)
+- Expo CLI (npm install -g expo-cli)
+- Firebase project setup with authentication and Firestore enabled
+
+### Installation Steps
+
+- Clone the repository:
+git clone https://github.com/your-username/cycle-care.git
+cd cycle-care
+
+- Install the dependencies:
+npm install
+
+- Set up Firebase configuration:
+Create a .env file and add your Firebase credentials:
+FIREBASE_API_KEY=your_api_key
+FIREBASE_AUTH_DOMAIN=your_auth_domain
+FIREBASE_PROJECT_ID=your_project_id
+FIREBASE_STORAGE_BUCKET=your_storage_bucket
+FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+FIREBASE_APP_ID=your_app_id
+
+- Start the development server:
+expo start/npm expo start --clear
+
+---
+
 ## 📝 Author  
 **Nishi Mewada** – [LinkedIn](https://www.linkedin.com/in/nishi-mewada)
