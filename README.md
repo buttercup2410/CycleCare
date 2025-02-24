@@ -63,7 +63,7 @@ menstrual care.
 - Clone the repository:
 git clone https://github.com/buttercup2410/cycle-care.git
 
-cd cycle-care
+- cd cycle-care
 
 - Install the dependencies:
 npm install
@@ -71,12 +71,12 @@ npm install
 - Set up Firebase configuration:
 Create a .env file and add your Firebase credentials:
 
-FIREBASE_API_KEY=your_api_key
-FIREBASE_AUTH_DOMAIN=your_auth_domain
-FIREBASE_PROJECT_ID=your_project_id
-FIREBASE_STORAGE_BUCKET=your_storage_bucket
-FIREBASE_MESSAGING_SENDER_ID=your_sender_id
-FIREBASE_APP_ID=your_app_id
+  FIREBASE_API_KEY=your_api_key
+  FIREBASE_AUTH_DOMAIN=your_auth_domain
+  FIREBASE_PROJECT_ID=your_project_id
+  FIREBASE_STORAGE_BUCKET=your_storage_bucket
+  FIREBASE_MESSAGING_SENDER_ID=your_sender_id
+  FIREBASE_APP_ID=your_app_id
 
 - Start the development server:
 expo start/npm expo start --clear
