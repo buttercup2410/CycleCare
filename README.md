@@ -61,9 +61,8 @@ menstrual care.
 ### Installation Steps
 
 - Clone the repository:
-git clone https://github.com/buttercup2410/cycle-care.git
-
-- cd cycle-care
+  git clone https://github.com/buttercup2410/cycle-care.git
+  cd cycle-care
 
 - Install the dependencies:
 npm install
