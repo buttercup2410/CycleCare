@@ -61,7 +61,8 @@ menstrual care.
 ### Installation Steps
 
 - Clone the repository:
-git clone https://github.com/your-username/cycle-care.git
+git clone https://github.com/buttercup2410/cycle-care.git
+
 cd cycle-care
 
 - Install the dependencies:
@@ -69,6 +70,7 @@ npm install
 
 - Set up Firebase configuration:
 Create a .env file and add your Firebase credentials:
+
 FIREBASE_API_KEY=your_api_key
 FIREBASE_AUTH_DOMAIN=your_auth_domain
 FIREBASE_PROJECT_ID=your_project_id
