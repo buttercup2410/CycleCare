@@ -1,5 +1,5 @@
 
-#  Cycle Care – Personalized Menstrual Care App
+# 🌀 Cycle Care – Personalized Menstrual Care App
 
 **Cycle Care** is a revolutionary subscription and delivery service designed to make menstrual care convenient, sustainable, and stress-free. The app tailors product recommendations based on each user’s unique cycle patterns, ensuring timely delivery of the right products. With flexible subscription plans, emergency one-hour delivery, and eco-friendly products, Cycle Care empowers users to take control of their menstrual health with convenience, privacy, and sustainability in mind.
 
@@ -17,7 +17,7 @@
 
 ---
 
-##  Target Audience
+## 👥 Target Audience
 - Women (18-45) who use sanitary products and prefer a convenient, sustainable, and
 customized solution.
 - Eco-conscious individuals looking for environmentally friendly menstrual care
@@ -51,5 +51,5 @@ menstrual care.
 
 ---
 
-## 👩‍💻 Author  
+## 📝 Author  
 **Nishi Mewada** – [LinkedIn](https://www.linkedin.com/in/nishi-mewada)
